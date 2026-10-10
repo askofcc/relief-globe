@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Allow: /assets/
+Allow: /og.jpg
+Sitemap: https://earth.srint.cn/sitemap.xml

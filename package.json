@@ -1,0 +1,19 @@
+{
+  "name": "relief-globe",
+  "version": "6.0.0",
+  "private": true,
+  "description": "浮雕地球仪 v6 — 3D raised-relief web globe (static site)",
+  "scripts": {
+    "bundle": "esbuild src_v6/main.js --bundle --minify --format=iife --target=es2020 --outfile=build/app_v6.js --legal-comments=none",
+    "build": "python3 build_v6.py",
+    "serve": "cd dist_v6 && python3 -m http.server 8080"
+  },
+  "dependencies": {
+    "d3-geo": "3.1.1",
+    "three": "0.186.1",
+    "topojson-client": "3.1.0"
+  },
+  "devDependencies": {
+    "esbuild": "0.28.2"
+  }
+}

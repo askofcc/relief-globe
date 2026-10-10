@@ -1,0 +1,8 @@
+node_modules/
+build/
+data/
+/assets/
+.vercel/
+__pycache__/
+relief_globe_v6.html
+.DS_Store

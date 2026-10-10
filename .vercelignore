@@ -1,0 +1,6 @@
+node_modules/
+build/
+data/
+/assets/
+__pycache__/
+relief_globe_v6.html

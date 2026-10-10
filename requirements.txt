@@ -1,0 +1,10 @@
+# Python tools for the data-prep / build scripts (Python 3.10+)
+numpy>=1.26
+scipy>=1.11
+pillow>=10
+shapely>=2.0
+netCDF4>=1.6
+pypinyin>=0.50
+opencc-python-reimplemented>=0.1.7   # or "opencc"; prep_v6.py does `from opencc import OpenCC`
+fonttools[woff]>=4.40                # pyftsubset + brotli for .woff2
+brotli>=1.0
