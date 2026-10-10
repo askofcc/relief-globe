@@ -1,12 +1,21 @@
 # 浮雕地球仪 v6（Relief Globe 3D）
 
-> 🌐 **在线体验**：[https://earth.srint.cn/](https://earth.srint.cn/) （备用：[https://relief-globe.vercel.app/](https://relief-globe.vercel.app/)）  
+> 🌐 **在线体验**：[https://earth.srint.cn/](https://earth.srint.cn/)  
 > 📦 **项目源码**：[https://github.com/askofcc/relief-globe](https://github.com/askofcc/relief-globe)
 
 
 一个纯静态的网页 3D 浮雕地球仪：8K 真实高程立体地形、中国标准地图画法（台湾与大陆同色、阿克赛钦与藏南按中国标注、南海九段线）、“我的位置”定位与周边山川、局部高精度地形（联网获取 AWS Terrarium）、剖面线、中英文注记、洋流与图例。
 
 > 本项目是数字示意地球仪，**不是**正式出版地图，没有审图号，也不声称任何官方审核。
+
+
+## 🎬 演示视频
+
+https://github.com/askofcc/relief-globe/raw/main/docs/demo_16x9.mp4
+
+> 💡 **演示视频说明**：
+> - **16:9 横屏完整演示**：[`docs/demo_16x9.mp4`](docs/demo_16x9.mp4)（展现全局 3D 浮雕地球仪、8K 真实高程地形、中国标准地图政区及高程剖面线探测）
+> - **9:16 竖屏短视频**：[`docs/demo_9x16.mp4`](docs/demo_9x16.mp4)（适合移动端与短视频平台展示“一键定位家乡看周边山川”）
 
 ## 目录结构
 
