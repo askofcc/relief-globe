@@ -1,4 +1,8 @@
-# 浮雕地球仪 v6（Relief Globe）— Vercel 部署包
+# 浮雕地球仪 v6（Relief Globe 3D）
+
+> 🌐 **在线体验**：[https://earth.srint.cn/](https://earth.srint.cn/) （备用：[https://relief-globe.vercel.app/](https://relief-globe.vercel.app/)）  
+> 📦 **项目源码**：[https://github.com/askofcc/relief-globe](https://github.com/askofcc/relief-globe)
+
 
 一个纯静态的网页 3D 浮雕地球仪：8K 真实高程立体地形、中国标准地图画法（台湾与大陆同色、阿克赛钦与藏南按中国标注、南海九段线）、“我的位置”定位与周边山川、局部高精度地形（联网获取 AWS Terrarium）、剖面线、中英文注记、洋流与图例。
 
